@@ -1,4 +1,3 @@
-from loading import load
 from extract_music import course
 import time
 
